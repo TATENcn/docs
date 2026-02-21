@@ -1,18 +1,15 @@
 ---
 seo:
-  title: Write beautiful docs with Markdown
-  description:
-    Ship fast, flexible, and SEO-optimized documentation with beautiful
-    design out of the box. Docus brings together the best of the Nuxt ecosystem.
-    Powered by Nuxt UI.
+  title: 用 Markdown 编写漂亮的文档
+  description: 开箱即用，快速、灵活且 SEO 优化的文档，搭配精美设计。Docus 融合了 Nuxt 生态系统的精华，由 Nuxt UI 驱动。
 ---
 
 ::u-page-hero
 #title
-Write beautiful docs with Markdown
+用 Markdown 编写漂亮的文档
 #description
-Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box.
-Docus brings the best of the Nuxt ecosystem into one CLI.
+开箱即用地快速交付美观、灵活且 SEO 优化的文档。  
+Docus 将 Nuxt 生态系统的精华集成到一个 CLI 中。
 #links
 :::u-button
 ---
@@ -21,7 +18,7 @@ size: xl
 to: /en/getting-started/installation
 trailing-icon: i-lucide-arrow-right
 ---
-Get started
+开始使用
 :::
 :::u-button
 ---
@@ -37,7 +34,7 @@ Star on GitHub
 
 ::u-page-section
 #title
-Shipped with many features
+配备众多功能
 #features
 :::u-page-feature
 ---
@@ -46,9 +43,9 @@ target: _blank
 to: https://nuxt.com
 ---
 #title
-Built with [Nuxt 4]{.text-primary}
+使用 [Nuxt 4]{.text-primary} 构建
 #description
-Optimized by the most famous Vue framework. Docus gives you everything you need to build fast, performant, and SEO-friendly websites.
+由最著名的 Vue 框架优化，Docus 为你提供构建快速、高性能且对 SEO 友好的网站所需的一切。
 :::
 :::u-page-feature
 ---
@@ -57,9 +54,9 @@ target: _blank
 to: https://ui.nuxt.com/
 ---
 #title
-Powered by [Nuxt UI]{.text-primary}
+由 [Nuxt UI]{.text-primary} 提供支持
 #description
-Beautiful out of the box, minimal by design but highly customizable. Docus leverages Nuxt UI to give you the best docs writing experience with zero boilerplate, just focus on your content.
+开箱即美，设计简约却高度可定制。Docus 借助 Nuxt UI，为你提供无需样板代码的最佳文档写作体验，让你专注于内容本身。
 :::
 :::u-page-feature
 ---
@@ -68,9 +65,9 @@ target: _blank
 to: https://content.nuxt.com
 ---
 #title
-Enhanced Markdown syntax by [Nuxt Content]{.text-primary}
+[Nuxt Content]{.text-primary} 增强的 Markdown 语法
 #description
-The only thing you need to take care about is writing your content. Write your pages in Markdown and extend with MDC syntax to embed Nuxt UI or custom Vue components. Structure, routing, and rendering are handled for you.
+你唯一需要注意的就是编写内容。使用 Markdown 编写页面，并通过 MDC 语法扩展以嵌入 Nuxt UI 或自定义 Vue 组件。结构、路由和渲染都已为你处理妥当。
 :::
 :::u-page-feature
 ---
@@ -79,9 +76,9 @@ target: _blank
 to: https://nuxt.com/docs/guide/directory-structure/app-config
 ---
 #title
-Customize with [Nuxt App Config]{.text-primary}
+使用 [Nuxt 应用配置]{.text-primary} 自定义
 #description
-Update colors, social links, header logos and component styles globally using the `app.config.ts`, no direct code modifications required.
+通过 `app.config.ts` 全局更新颜色、社交链接、页眉 Logo 和组件样式，无需直接修改代码。
 :::
 :::u-page-feature
 ---
@@ -90,9 +87,9 @@ target: _blank
 to: https://content.nuxt.com/studio
 ---
 #title
-Edit in production with [Nuxt Studio]{.text-primary}
+在生产环境中使用 [Nuxt Studio]{.text-primary} 进行编辑
 #description
-Edit your content in production with zero Markdown knowledge required. Let your non technical colleagues collaborate on the documentation and integrate Vue components without code skills.
+无需任何 Markdown 知识，即可在生产环境中编辑您的内容。让非技术人员也能协作编写文档，并无需编码技能即可集成 Vue 组件。
 :::
 :::u-page-feature
 ---
@@ -101,8 +98,8 @@ target: _blank
 to: https://ui.nuxt.com/components/content-search
 ---
 #title
-Built-in navigation and [full-text search]{.text-primary}
+内置导航和[全文搜索]{.text-primary}
 #description
-Only focus on ordering your content, Docus handles the search modal and auto-generates the side navigation for you.
+只需专注于整理你的内容，Docus 会处理搜索弹窗并自动为你生成侧边导航。
 :::
 ::
