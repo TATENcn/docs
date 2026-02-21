@@ -1,15 +1,14 @@
 ---
 seo:
-  title: 用 Markdown 编写漂亮的文档
-  description: 开箱即用，快速、灵活且 SEO 优化的文档，搭配精美设计。Docus 融合了 Nuxt 生态系统的精华，由 Nuxt UI 驱动。
+  title: TATEN Docs
+  description: 团队知识库
 ---
 
 ::u-page-hero
 #title
-用 Markdown 编写漂亮的文档
+TATEN Docs
 #description
-开箱即用地快速交付美观、灵活且 SEO 优化的文档。  
-Docus 将 Nuxt 生态系统的精华集成到一个 CLI 中。
+团队文档站
 #links
 :::u-button
 ---
@@ -18,7 +17,7 @@ size: xl
 to: /en/getting-started/installation
 trailing-icon: i-lucide-arrow-right
 ---
-开始使用
+开始阅读
 :::
 :::u-button
 ---
